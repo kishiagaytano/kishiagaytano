@@ -57,9 +57,5 @@ I'm a 4th-year BS Computer Science student at **FEU Institute of Technology**, s
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishiagaytano&layout=compact&langs_count=6&hide=php&hide_border=true&bg_color=00000000&title_color=E75480&text_color=808080&icon_color=E75480" alt="Top languages">
-</p>
-
-<p align="center">
   <sub>Open to research collaborations and data science internships — <a href="mailto:kishia.nikole@gmail.com">kishia.nikole@gmail.com</a></sub>
 </p>
